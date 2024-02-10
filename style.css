@@ -48,6 +48,9 @@ equ .view{
   border-radius: 10px;
 }
 */
+h3{
+color:white;
+}
 .subpart2{
   display: flex;
   gap: 1rem;
@@ -77,9 +80,6 @@ equ .view{
 }
 p{
   color:hsl(215, 51%, 70%);
-}
-h3{
-  color:white;
 }
 .eth{
   color:hsl(178, 100%, 50%);
