@@ -91,3 +91,9 @@ h3, span, .main{
 h3:hover, span:hover, eth:hover{
   color:hsl(178, 100%, 50%);
 }
+
+@media(min-width:480px){
+  .container{
+    max-width:300px;
+  }
+}
